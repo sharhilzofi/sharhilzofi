@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🔭 I’m currently working on Web Analytics Tracking
+- 🌱 I’m currently learning various web technology that are currently trending for Web Application Development.
 
 <!--
 **sharhilzofi/sharhilzofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
